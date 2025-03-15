@@ -15,4 +15,6 @@ A simple command-line TODO application for managing tasks directly in your proje
 ## Installation
 
 ```Local Setup
-git clone 
+git clone
+
+### setup
